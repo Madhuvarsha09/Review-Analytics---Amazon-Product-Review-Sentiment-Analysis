@@ -348,8 +348,8 @@ Licensed under **MIT License** – see [LICENSE](LICENSE).
 ---
 
 💡 *Made with ❤️ by MADHU VARSHA M C*
-📌 *For educational purposes. Please respect Amazon’s Terms of Service.*
+📌 *For educational purposes.
+Please respect Amazon’s Terms of Service.*
 
 ---
 
-Would you like me to also **add GitHub badges** (React ⚛️, Flask 🐍, License 📄, Internship recognition 🎓) at the top of the README so it looks even more professional?
